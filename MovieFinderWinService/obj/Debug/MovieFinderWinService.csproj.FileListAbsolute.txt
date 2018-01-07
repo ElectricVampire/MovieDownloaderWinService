@@ -1,0 +1,7 @@
+c:\users\pareeka2\documents\visual studio 2015\Projects\MovieFinderWinService\MovieFinderWinService\bin\Debug\MovieFinderWinService.exe.config
+c:\users\pareeka2\documents\visual studio 2015\Projects\MovieFinderWinService\MovieFinderWinService\bin\Debug\MovieFinderWinService.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\MovieFinderWinService\MovieFinderWinService\bin\Debug\MovieFinderWinService.pdb
+c:\users\pareeka2\documents\visual studio 2015\Projects\MovieFinderWinService\MovieFinderWinService\obj\Debug\MovieFinderWinService.ProjectInstaller.resources
+c:\users\pareeka2\documents\visual studio 2015\Projects\MovieFinderWinService\MovieFinderWinService\obj\Debug\MovieFinderWinService.csproj.GenerateResource.Cache
+c:\users\pareeka2\documents\visual studio 2015\Projects\MovieFinderWinService\MovieFinderWinService\obj\Debug\MovieFinderWinService.exe
+c:\users\pareeka2\documents\visual studio 2015\Projects\MovieFinderWinService\MovieFinderWinService\obj\Debug\MovieFinderWinService.pdb
