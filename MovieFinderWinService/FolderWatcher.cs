@@ -88,6 +88,7 @@ namespace MovieFinderWinService
         /// Copy file to destination folder
         /// </summary>
         /// <param name="file">file which is created in source folder</param>
+        /// TO-DO : What if we stay in while forever? Some break-out mechanism should be there
         private void Copy(FileInfo file)
         {
             while (IsFileLocked(file))
